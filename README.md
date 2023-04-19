@@ -1,7 +1,7 @@
 ## Hello, world!         
 Меня зовут Анна Котовская. 
 
-![Я выгляжу так](image.png)
+![Я выгляжу так](https://user-images.githubusercontent.com/130035170/233137177-14ef88af-15a5-4755-92c9-88c2881847f2.png)
 
 Это моя первая страница на GitHub.
 
